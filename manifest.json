@@ -1,0 +1,11 @@
+{
+    "name": "Information Controller",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "description": "Keep track of your information and data",
+    "author": "Abhirup Das",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Info Controller"
+    }
+}
